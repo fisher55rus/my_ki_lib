@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AL8843
+D LED DRIVER STEP-DOWN 40V 3A
+K LED Driver
+F https://www.diodes.com/assets/Datasheets/AL8843.pdf
+$ENDCMP
+#
+#End Doc Library
